@@ -12,6 +12,9 @@ The Unreal Engine is one of the state-of-the-art 3D rendering engines, mainly us
 
 At the end of the course, participants have setup their own pipeline with UE and a simple ML workflow in one of the leading supercomputing centres.
 
+<a name="information"></a>
+## Information
+
 The overall goals of this course were the following:
 
 - Visualization pipelines with Unreal Engine
@@ -22,9 +25,6 @@ The overall goals of this course were the following:
   - Preparing the frameworks
   - Parsing and using data
   - Best practices
-
-<a name="information"></a>
-## Information
 
 All necessary information, links and content for the course can be found on the [course website](https://gitlab.jsc.fz-juelich.de/hedgedoc/s/lFvlmhs7H#).
 
