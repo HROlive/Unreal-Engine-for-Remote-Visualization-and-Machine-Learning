@@ -31,6 +31,6 @@ All necessary information, links and content for the course can be found on the 
 <a name="certificates"></a>
 ## Certificates
 
-The certificates for the workshop can be found bellow:
+The certificates for the workshop can be found below:
 
 - ["Unreal Engine for Remote Visualization and Machine Learning" - Jülich Supercomputing Centre](https://github.com/HROlive/Unreal-Engine-for-Remote-Visualization-and-Machine-Learning/blob/main/images/certificate.pdf) (Issued On: June 2023)
